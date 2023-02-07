@@ -1,7 +1,7 @@
 # Getting Started
 First Open Terminal
 
-## cloning project
+### cloning project
 for cloning this project use :
 ````
 git clone https://github.com/sahrilputra/ifest-ua.git
